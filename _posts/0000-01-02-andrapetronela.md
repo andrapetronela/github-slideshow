@@ -2,6 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+“Don’t walk in front of me… I may not follow
+Don’t walk behind me… I may not lead
+Walk beside me… just be my friend” 
+― Albert Camus
 Use the left arrow to go back!
  
